@@ -54,3 +54,7 @@ Model Training: Logistic Regression using Spark ML.
 Evaluation Metrics: Confusion Matrix, Accuracy, Precision, Recall, F1-score.
 
 Visualization: WordCloud, Sentiment Distribution, and Feature Importance.
+
+# Contact
+
+For any queries, reach out via GitHub Issues.
