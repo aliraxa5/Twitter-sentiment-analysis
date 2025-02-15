@@ -1,7 +1,7 @@
 # Twitter-sentiment-analysis
 This repository contains a Twitter Sentiment Analysis project that utilizes Apache Spark (PySpark) for big data processing and NLP techniques for sentiment classification. The analysis is performed on the Sentiment140 dataset, where tweets are classified as positive or negative based on their sentiment.
 
-📌# Features
+📌 # Features
 
 Big Data Processing with Apache Spark
 
